@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School Scheduler</string>
+
+    <string name = "schedule_teacher_hint">Enter the teacher\'s name</string>
+    <string name = "schedule_name_hint">Enter the class name</string>
+    <string name = "schedule_location_hint"> Enter the class location</string>
+    <string name = "schedule_time_hint">Enter the class time</string>
+    <string name = "schedule_days_hint">Enter the days the class meets</string>
+    <string name = "date_picker_title">Upcoming Birhday</string>
+    <string name = "new_schedule">New Class</string>
+
+    <string name = "delete">Delete</string>
+    <string name = "zero_schedules">You have not added any classes yet. Click the + to add one</string>
+
+    <string name = "export">Export Schedule</string>
+</resources>
